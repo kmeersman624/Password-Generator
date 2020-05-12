@@ -11,6 +11,7 @@ CLick the button and answer the prompts to create a unique password that include
 - At least 8 characters, but less than 128
 
   Contains at least one of the following types of characters:
+
   - Lowercase letter
   - Uppercase letter
   - Number
